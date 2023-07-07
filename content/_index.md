@@ -127,6 +127,7 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: featured
     content:
       title: Recent Publications
       text: |-
