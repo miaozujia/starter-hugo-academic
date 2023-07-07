@@ -10,9 +10,6 @@ sections:
       title: Hugo Academic Theme
       image:
         filename: hero-academic.png
-      # cta:
-        # label: '**Get Started**'
-        # url: https://wowchemy.com/templates/
       cta_alt:
         label: Ask a question
         url: https://discord.gg/z8wNYzb
