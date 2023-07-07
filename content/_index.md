@@ -73,9 +73,9 @@ sections:
           company: GenCoin
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Xiangyang
+          date_start: '2017-07-01'
+          date_end: '2020-07-01'
           description: |2-
               Responsibilities include:
 
