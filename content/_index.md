@@ -139,7 +139,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
+      columns: '5'
       view: citation
   - block: collection
     id: talks
