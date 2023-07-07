@@ -3,8 +3,8 @@
 title: Miao zujia 缪祖佳
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Zujia
+last_name: Miao
 
 # Status emoji
 status:
@@ -22,20 +22,17 @@ organizations:
     url: https://miaozj.netlify.app/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include the security of autonomous vehicles perception system, data sciences and anomaly detection.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Autonomous vehicles
+  - Data sciences
+  - Anomaly detection
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
@@ -53,7 +50,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/
     label: Follow me on Twitter
     display:
       header: true
