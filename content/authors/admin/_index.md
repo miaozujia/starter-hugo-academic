@@ -79,6 +79,5 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Miao zujia received the B.S degree in vehicle engineering from Hefei University of Technology, Hefei, China, in 2017. He is currently working toward the M.Sc. degree in computer technology at Shenzhen institute of advanced technology, University of Chinese academy of science, Shenzhen, China. His current research interests are the security of autonomous vehicles.
 {style="text-align: justify;"}
